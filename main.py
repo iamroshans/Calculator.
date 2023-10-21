@@ -1,0 +1,6 @@
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+print("The sum of ",a,"+",b,"is :",a+b)
+print("The subtraction of ",a,"-",b,"is :",a-b)
+print("The multiplication of ",a,"*",b,"is :",a*b)
+print("The division of ",a,"/",b,"is :",a/b)
